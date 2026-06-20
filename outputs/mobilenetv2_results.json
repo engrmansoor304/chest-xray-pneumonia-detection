@@ -1,0 +1,9 @@
+{
+  "model": "MobileNetV2",
+  "accuracy": 84.78,
+  "auc": 0.937,
+  "precision": 81.45,
+  "recall": 97.95,
+  "f1_score": 88.94,
+  "train_time_min": 18.0
+}

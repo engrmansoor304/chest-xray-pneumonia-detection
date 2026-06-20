@@ -1,0 +1,9 @@
+{
+  "model": "Custom CNN",
+  "accuracy": 87.34,
+  "auc": 0.9356,
+  "precision": 88.4,
+  "recall": 91.79,
+  "f1_score": 90.06,
+  "train_time_min": 322.02
+}

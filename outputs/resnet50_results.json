@@ -1,0 +1,9 @@
+{
+  "model": "ResNet50",
+  "accuracy": 91.67,
+  "auc": 0.9698,
+  "precision": 92.46,
+  "recall": 94.36,
+  "f1_score": 93.4,
+  "train_time_min": 35.0
+}

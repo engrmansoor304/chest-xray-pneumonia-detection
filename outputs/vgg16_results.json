@@ -1,0 +1,9 @@
+{
+  "model": "VGG16",
+  "accuracy": 90.54,
+  "auc": 0.9566,
+  "precision": 90.27,
+  "recall": 95.13,
+  "f1_score": 92.63,
+  "train_time_min": 93.63
+}
